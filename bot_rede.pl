@@ -1,5 +1,5 @@
 % Projeto Interdisciplinar Em Ciência da Computação
-% Autor: Fernando Cesar Ramos.
+% Autora: Elizabeth Lopes Dos Santos.
 % Projeto: ChatBot de Perguntas e Respostas.
 % Assunto: Redes de Computadores.
 % Linguagem: Prolog.
